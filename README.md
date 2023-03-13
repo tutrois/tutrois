@@ -38,7 +38,7 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="AudazTec" src="https://audaztec.com.br/wp-content/themes/audaztec/img/logo.svg"/>](https://audaztec.com.br/)
 
-**Developer Jr III** \
+**Software Engenieer PL** \
 [**AudazTec**](https://audaztec.com.br/) • Contract \
 Languages & Technologies: `Asp .NET Framework MVC 5`, `Asp .NET CORE MVC`, `C#`, `HTML`, `CSS`, `JavaScript`, `JQuery/Ajax` \
 Featured Projects: [Web App](https://audaztec.com.br/abscard/)
